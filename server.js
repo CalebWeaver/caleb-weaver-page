@@ -1,18 +1,13 @@
 //Lets require/import the HTTP module
 var http = require('http');
-var dispatcher = require('httpdispatcher');
 var express = require('express');
+var path = require('path');
 
 app = express();
 
-app.get('/', function(req, res) {
-	res.send('Hello World');
-});
+app.set('port', process.env.PORT || 8080);
+app.use(express.static(__dirname));
 
-const PORT=8080;
-
-//Lets start our server
-app.listen(PORT, function(){
-    //Callback triggered when server is successfully listening. Hurray!
-    console.log("Server listening on: http://localhost:%s", PORT);
+var server = http.createServer(app).listen(app.get('port'), function () {
+  console.log('Express server listening on port ' + app.get('port'));
 });
