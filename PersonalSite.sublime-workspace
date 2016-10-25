@@ -1,0 +1,1158 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"scr",
+				"screen-md-min"
+			],
+			[
+				"Opp",
+				"OpportunityLineItem"
+			],
+			[
+				"ee",
+				"eeProdId"
+			],
+			[
+				"eeOli",
+				"eeOlisA"
+			],
+			[
+				"obj",
+				"objectsToClone"
+			],
+			[
+				"get",
+				"getQuery"
+			],
+			[
+				"obje",
+				"objectId"
+			],
+			[
+				"fiel",
+				"fieldName"
+			],
+			[
+				"Bi",
+				"BillingServiceSnapshotVO"
+			],
+			[
+				"add",
+				"addError"
+			],
+			[
+				"clo",
+				"closedOpportunities"
+			],
+			[
+				"STAGE",
+				"STAGE_REMOVE"
+			],
+			[
+				"Serreq",
+				"ServiceRequestServices"
+			],
+			[
+				"Ser",
+				"Service_Request_Stage__c"
+			],
+			[
+				"OPPCI",
+				"Opportunity_Circuit__c"
+			],
+			[
+				"Serstage",
+				"Service_Request_Stage"
+			],
+			[
+				"test",
+				"testOpportunity"
+			],
+			[
+				"OP",
+				"OpportunityServices"
+			],
+			[
+				"Tes",
+				"TestingUtils"
+			],
+			[
+				"Service",
+				"ServiceRequestServices"
+			],
+			[
+				"Stage",
+				"StageName"
+			],
+			[
+				"Stag",
+				"StageName"
+			],
+			[
+				"en",
+				"engineerings"
+			],
+			[
+				"servi",
+				"serviceRequests"
+			],
+			[
+				"eth",
+				"Ethernet_Circuit__c"
+			],
+			[
+				"Ether",
+				"Ethernet_Service_Type__c"
+			],
+			[
+				"eCi",
+				"eCircuit"
+			],
+			[
+				"Ethernet",
+				"Ethernet_Service__c"
+			],
+			[
+				"oc",
+				"oCircuits"
+			],
+			[
+				"oCir",
+				"oCircuits"
+			],
+			[
+				"Oppcir",
+				"Opportunity_Circuit__c"
+			],
+			[
+				"Eth",
+				"Ethernet_Service_Type__c"
+			],
+			[
+				"Opcir",
+				"Opportunity_Circuits_Container__c"
+			],
+			[
+				"Oppci",
+				"Opportunity_Circuits_Container__c"
+			],
+			[
+				"EPL",
+				"SERVICE_TYPE_EPL"
+			],
+			[
+				"eC",
+				"eCircuit"
+			],
+			[
+				"oC",
+				"oCircuits"
+			],
+			[
+				"Cir",
+				"Circuit_Occurrence_Definition__c"
+			],
+			[
+				"EE",
+				"EEServices"
+			],
+			[
+				"EPLAN",
+				"SERVICE_TYPE_EPLAN"
+			],
+			[
+				"Stat",
+				"Status__c"
+			],
+			[
+				"OCI",
+				"OCIRCUIT1_EXPO_ID"
+			],
+			[
+				"ON",
+				"ONETWORK_EXPO_ID"
+			],
+			[
+				"Ex",
+				"Expo_Path_Id__c"
+			],
+			[
+				"Oppoc",
+				"Opportunity_Circuits_Container__c"
+			],
+			[
+				"oci",
+				"oCircuits"
+			],
+			[
+				"oPP",
+				"Opportunity_Circuits_Container__c"
+			],
+			[
+				"oCi",
+				"oCircuits"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1512,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/server.js",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 750,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.scss",
+			"settings":
+			{
+				"buffer_size": 1356,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.module.js",
+			"settings":
+			{
+				"buffer_size": 82,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.module.js",
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/pages/home.view.html",
+			"settings":
+			{
+				"buffer_size": 416,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.module.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/index.html",
+		"/C/Users/cweaver/Google Drive/PersonalSite/package.json",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/package.json",
+		"/C/Users/cweaver/Google Drive/PersonalSite/app/app.states.js",
+		"/C/Users/cweaver/Google Drive/PersonalSite/app/components/home-content/home-content.directive.js",
+		"/C/Users/cweaver/Google Drive/PersonalSite/js/app.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/home/home.controller.js",
+		"/C/Users/cweaver/Google Drive/PersonalSite/app/pages/home.controller.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/home/home.view.html",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
+		"/C/Users/cweaver/Google Drive/PersonalSite/app/app.module.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/components/bottom-bar/bottom-bar.directive.js",
+		"/C/Users/cweaver/Google Drive/PersonalSite/app/components/home-content/home-content.view.html",
+		"/C/Users/cweaver/Google Drive/PersonalSite/gulpfile.js",
+		"/C/Users/cweaver/Google Drive/PersonalSite/assets/css/style.css",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_retrieve_04se000000303ZfAAI.zip/package.xml",
+		"/C/Users/cweaver/Documents/Mtg/wtwlf123s_cube (Powered).txt",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_Package_02742172.zip/Package_02742172/classes/OpportunityCircuitBeforeLogic.cls",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_02956909_Package.zip/02956909_Package/classes/OpportunityCircuitBeforeLogic.cls",
+		"/C/Users/cweaver/Google Drive/RoBE/Kuamo.txt",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/EEServices.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/EECreateOlisPlugin.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityAfterTriggerLogic.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/EthernetEverywhereMACDOliGenerator.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/EthernetEverywhereController.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/pages/EthernetEverywhere.page",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitNetworkAfterLogic.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/debug/logs/2016-09-09 15-18-53.log",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitModel.cls",
+		"/C/Users/cweaver/Documents/Mtg/leadfeather89s_cube (peasant)-Update.txt",
+		"/C/Users/cweaver/Documents/Mtg/leadfeather89s_cube (peasant)-Current.txt",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitAfterLogic.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitAfterLogicTest.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/staticresources/EthernetEveryWhereScript.resource",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_Case_03011681_09122016 (2).zip/classes/OpportunityAfterTriggerLogic.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitsNetworkBeforeLogic.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/ToSalesUIController.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/SP7EEController.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/EthernetEverywhereMACDController.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/EthernetEverywhereMACDImpl.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/pages/ToSalesUI.page",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/ToSalesUIControllerTest.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/TestingUtils.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/NetworkIntegrationValidationHandler.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/NetworkIntegrationValidationHandlerTest.cls",
+		"/C/Users/cweaver/mmWorkspace/Ant Package Utility/retrieveUnpackaged/retrieve_09S19000001AwmgEAC/classes/NetworkIntegrationValidationHandlerTest.cls",
+		"/C/Users/cweaver/mmWorkspace/Ant Package Utility/retrieveUnpackaged/retrieve_09S19000001AwmgEAC/classes/NetworkIntegrationValidationHandler.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/InFlightServices.cls",
+		"/C/Users/cweaver/Documents/Mtg/wtwlf123s_cube (powered).txt",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/triggers/ServiceRequestAfter.trigger",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/ServiceRequestAfterTriggerLogic.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/ServiceRequestAfterTriggerLogicTest.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitBeforeLogic.cls",
+		"/C/Users/cweaver/sublimeWorkspace/caleb-weaver-page/index.html",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_recruiting-java-acumenbank.zip/recruiting-java-acumenbank/src/com.acumensolutions.bank/account/Account.java",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/ExpoIntegrationValidationScheduler.cls",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_recruiting-java-acumenbank.zip/recruiting-java-acumenbank/src/com.acumensolutions.bank/account/CheckingAccount.java",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_recruiting-java-acumenbank.zip/recruiting-java-acumenbank/src/com.acumensolutions.bank/account/SavingsAccount.java",
+		"/C/Users/cweaver/Downloads/retrieve_09S19000001Au27EAC/classes/OpportunityAfterTriggerLogic.cls",
+		"/C/Users/cweaver/Downloads/retrieve_09S19000001Au27EAC/classes/OpportunityAfterTriggerLogic.cls-meta.xml",
+		"/C/Users/cweaver/AppData/Local/Temp/Temp1_retrieve_09S19000001Au27EAC.zip/classes/OpportunityAfterTriggerLogic.cls",
+		"/C/Users/cweaver/Downloads/Package_03011661_09122016/classes/OpportunityCircuitNetworkAfterLogic.cls",
+		"/C/Users/cweaver/Downloads/Package_03011661_09122016/classes/OpportunityCircuitNetworkAfterLogic.cls-meta.xml",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitNetworkAfterLogic.cls-meta.xml",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitNetworkAfterLogicTest.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityAfterTriggerLogicTest.cls",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/triggers/OpportunityAfter.trigger",
+		"/C/Users/cweaver/mmWorkspace/Ant Package Utility/unpackaged/package.xml",
+		"/C/users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityBeforeTriggerLogic.cls",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/MavensMate/messages/7.0.0.txt",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge 3.sublime-settings",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityAfterTriggerLogic.cls",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Installed Packages/Whitespace/Default.sublime-commands",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Installed Packages/Whitespace.sublime-package",
+		"/C/Users/cweaver/Downloads/OpportunityAfterTriggerLogicTest.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/ServiceRequestServices.cls",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/C/Users/cweaver/mmWorkspace/Ant Package Utility/retrieveUnpackaged/retrieve_09S19000001AthiEAC/classes/TestingUtils.cls",
+		"/C/Users/cweaver/mmWorkspace/Ant Package Utility/retrieveUnpackaged/retrieve_09S19000001AthiEAC/classes/OpportunityAfterTriggerLogic.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityServices.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OppCircuitsNetworkBeforeLogicTest.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/triggers/OpportunityAfter.trigger",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityAfterTriggerLogicTest.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/EEFullCancelPlugin.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/EEFullCanceller.cls",
+		"/C/cygwin64/home/cweaver/.bashrc",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityBeforeTriggerLogic.cls",
+		"/C/Users/cweaver/Google Drive/STEVE, THIS IS WHERE YOU CHANGE THE NEWS URL.txt",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitBeforeLogic.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/ServiceRequestBeforeTriggerLogic.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/EthernetEverywhereMACDImpl.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OSLBeforeTriggerLogic.cls",
+		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitNetworkAfterLogic.cls",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/.gitignore",
+		"/C/home/cweaver/.bashrc",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/MavensMate/sublime/Default.sublime-commands",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Installed Packages/Sublimerge 3.sublime-commands",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Installed Packages/Sublimerge 3.sublime-package",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Default (Windows).sublime-keymap",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"routes",
+			"app",
+			"process",
+			"a",
+			"../",
+			"img",
+			"assets",
+			"assets`",
+			"assets",
+			"@@@",
+			"@@@ olifirst",
+			"olifirst",
+			"Spoke",
+			"There are Offers/Updates associated with this order that are not reflected on the",
+			"setaccount",
+			"set account",
+			"testReject",
+			"There are Offers/Updates associated wi",
+			"GBPS_TO_MBPS",
+			"aggregate_bandwidth",
+			"olisList",
+			"NEW_ORDER_OLI_COUNT",
+			"Opportunity_Service_Location__c",
+			"getWhereQuery",
+			"select",
+			"SELECT",
+			"select",
+			"SELECT",
+			"select",
+			"eCircuits",
+			"Ethernet_Circuit__c",
+			"eCircuits",
+			"Ethernet_Circuit__c",
+			") + getWhere(",
+			"getFieldSelect('Opportunity_Circuit__c') + getFrom('Opportunity_Circuit__c') + getWhere(",
+			"Opportunity_Circuit__c",
+			"Ethernet_Connection__c",
+			"Ethernet_Circuit__c",
+			"Ethernet_Connection__c",
+			"Opportunity",
+			"Account",
+			"--",
+			"isparent",
+			"moonrise",
+			"vill",
+			"village",
+			"moonrise",
+			"Opportunity_Service_Location__c",
+			"PF_Type",
+			"BillingServiceSnapshotVO",
+			"OpportunityLineItem",
+			"02956909",
+			"03011637",
+			"updateServiceRequestsOnClosedLost",
+			"disableProductButton",
+			"addMacdButtonDisabled",
+			"Change",
+			"existing ",
+			"oppCktDisplayModelList",
+			"circuits and products",
+			"BillingServiceSnapshotVO",
+			"linkOSLAndOC",
+			"createTransactionalObjects",
+			"createMACDObjects",
+			"redirectToEEPage",
+			"createOrderProcess",
+			"billingaccount",
+			"decide",
+			"opp",
+			"opportunity_ser",
+			"alidateExpoIds",
+			"alidateExpoIdsForStatusNewOrder",
+			"testValidateExpoIdsForStatusMacd",
+			"NetworkIntegrationValidationHandler",
+			"IN_PROGRESS",
+			"PENDING_EXPO_CANCEL",
+			"INTEGRATION_ERROR",
+			"testCheckServiceRequestStageForRemove",
+			"updateOCircuitsWhenCancelled",
+			"checkServiceRequestStageForRemove",
+			"ToRe",
+			"toremove",
+			"evc_id",
+			"cancelled",
+			"OpportunityCircuitNetworkAfterLogic",
+			"whitesp",
+			"sale com",
+			"submi",
+			"createCaseForStageSSC",
+			"cc",
+			"createCCOnOpportunity",
+			"checkforcc",
+			"trigger",
+			"catch",
+			"closedLostOpportunities",
+			"stage_cw",
+			"Work_Or",
+			"work_o",
+			"_cl",
+			"Closed los",
+			"Closed ",
+			"_cl",
+			"closed los",
+			"_cl",
+			"closed",
+			"STAGE_CL",
+			"lost",
+			"pending_cancel",
+			"queryOCircuits",
+			"oNetworkIds",
+			"Service_Request__c",
+			"gettestaccount",
+			"services",
+			"'billing account",
+			"testUpdateONetworkWhenEplanDisconnected",
+			"onetwo",
+			"testCheckONetworkStatusForCancelled",
+			"oCircuits",
+			"id",
+			"testCheckONetworkStatusForCancelled",
+			"EXPO_Path_Id__c",
+			"occ",
+			"oCircuitEplan",
+			"eConnEplan",
+			"eCircuitEplan",
+			"occ",
+			"eplan",
+			"Circuit_Occurrence_Definition__c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../../",
+			"img"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1434,
+								1434
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1027,
+								1027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1016.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/app.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/pages/home.view.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PersonalSite.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"oliplug",
+				"src\\classes\\EECreateOlisPlugin.cls"
+			],
+			[
+				"oligener",
+				"src\\classes\\EthernetEverywhereNewOrderOliGenerator.cls"
+			],
+			[
+				"testing",
+				"src\\classes\\TestingUtils.cls"
+			],
+			[
+				"serreqaft",
+				"src\\classes\\ServiceRequestAfterTriggerLogicTest.cls"
+			],
+			[
+				"createoli",
+				"src\\classes\\EECreateOlisPlugin.cls"
+			],
+			[
+				"eeservc",
+				"src\\classes\\EEServices.cls"
+			],
+			[
+				"eeser",
+				"src\\classes\\EEServices.cls"
+			],
+			[
+				"oppaft",
+				"src\\classes\\OpportunityAfterTriggerLogic.cls"
+			],
+			[
+				"serreqaflogi",
+				"src\\classes\\ServiceRequestAfterTriggerLogic.cls"
+			],
+			[
+				"macdoli",
+				"src\\classes\\EthernetEverywhereMACDOliGenerator.cls"
+			],
+			[
+				"ethevcon",
+				"src\\classes\\EthernetEverywhereController.cls"
+			],
+			[
+				"ocmo",
+				"src\\classes\\OpportunityCircuitModel.cls"
+			],
+			[
+				"ethevpage",
+				"src\\pages\\EthernetEverywhere.page"
+			],
+			[
+				"ocnbefore",
+				"src\\classes\\OpportunityCircuitsNetworkBeforeLogic.cls"
+			],
+			[
+				"oppcirnetaftlogi",
+				"src\\classes\\OpportunityCircuitNetworkAfterLogic.cls"
+			],
+			[
+				"ethev",
+				"src\\pages\\EthernetEverywhere.page"
+			],
+			[
+				"macdimpl",
+				"src\\classes\\EthernetEverywhereMACDImpl.cls"
+			],
+			[
+				"eemacdcon",
+				"src\\classes\\EthernetEverywhereMACDController.cls"
+			],
+			[
+				"sp7eecontroller",
+				"src\\classes\\SP7EEController.cls"
+			],
+			[
+				"tosalesuicontroller",
+				"src\\classes\\ToSalesUIController.cls"
+			],
+			[
+				"tosalesui",
+				"src\\pages\\ToSalesUI.page"
+			],
+			[
+				"ocnafter",
+				"src\\classes\\OpportunityCircuitNetworkAfterLogic.cls"
+			],
+			[
+				"inlfight",
+				"src\\classes\\InFlightServices.cls"
+			],
+			[
+				"serreqafttest",
+				"src\\classes\\ServiceRequestAfterTriggerLogicTest.cls"
+			],
+			[
+				"serreqafttr",
+				"src\\triggers\\ServiceRequestAfter.trigger"
+			],
+			[
+				"ocbefolo",
+				"src\\classes\\OpportunityCircuitBeforeLogic.cls"
+			],
+			[
+				"inflightservices",
+				"src\\classes\\InFlightServices.cls"
+			],
+			[
+				"networkintegrationvalidationhandler",
+				"src\\classes\\NetworkIntegrationValidationHandlerTest.cls"
+			],
+			[
+				"inflight",
+				"src\\classes\\InFlightServices.cls"
+			],
+			[
+				"expointegrationvalidationscheduler",
+				"src\\classes\\ExpoIntegrationValidationScheduler.cls"
+			],
+			[
+				"ocnbefo",
+				"src\\classes\\OpportunityCircuitsNetworkBeforeLogic.cls"
+			],
+			[
+				"oppafttrlo",
+				"src\\classes\\OpportunityAfterTriggerLogic.cls"
+			],
+			[
+				"opportunitycircuitnetworkafterlogic",
+				"src\\classes\\OpportunityCircuitNetworkAfterLogic.cls-meta.xml"
+			],
+			[
+				"oppcirnetaf",
+				"src\\classes\\OpportunityCircuitNetworkAfterLogic.cls"
+			],
+			[
+				"ocn",
+				"src\\classes\\OpportunityCircuitNetworkAfterLogic.cls"
+			],
+			[
+				"oppaftrig",
+				"src\\triggers\\OpportunityAfter.trigger"
+			],
+			[
+				"oppafttest",
+				"src\\classes\\OpportunityAfterTriggerLogicTest.cls"
+			],
+			[
+				"serreq",
+				"src\\classes\\ServiceRequestServices.cls"
+			],
+			[
+				"oppserv",
+				"src\\classes\\OpportunityServices.cls"
+			],
+			[
+				"opportunity",
+				"src\\classes\\OpportunityBeforeTriggerLogic.cls"
+			],
+			[
+				"ocnbefologi",
+				"src\\classes\\OpportunityCircuitsNetworkBeforeLogic.cls"
+			],
+			[
+				"ocnlogi",
+				"src\\classes\\OpportunityCircuitNetworkAfterLogic.cls"
+			],
+			[
+				"ocnlogic",
+				"src\\classes\\OppCircuitsNetworkBeforeLogicTest.cls"
+			],
+			[
+				"serreqserv",
+				"src\\classes\\ServiceRequestServices.cls"
+			],
+			[
+				"oppaftetri",
+				"src\\triggers\\OpportunityAfter.trigger"
+			],
+			[
+				"oppafter",
+				"src\\classes\\OpportunityAfterTriggerLogic.cls"
+			],
+			[
+				"opplogic",
+				"src\\classes\\OpportunityBeforeTriggerLogic.cls"
+			],
+			[
+				"full",
+				"src\\classes\\EEFullCancelPlugin.cls"
+			],
+			[
+				"fullcancel",
+				"src\\classes\\EEFullCanceller.cls"
+			],
+			[
+				"testingutils",
+				"src\\classes\\TestingUtils.cls"
+			],
+			[
+				"serreqbefologi",
+				"src\\classes\\ServiceRequestBeforeTriggerLogic.cls"
+			],
+			[
+				"opportunitycircuitbeforelogic",
+				"src\\classes\\OpportunityCircuitBeforeLogic.cls"
+			],
+			[
+				"oppcirafte",
+				"src\\classes\\OpportunityCircuitAfterLogic.cls"
+			],
+			[
+				"oppcirtest",
+				"src\\classes\\OpportunityCircuitAfterLogicTest.cls"
+			],
+			[
+				"oppcitest",
+				"src\\classes\\OppCircuitsNetworkBeforeLogicTest.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
