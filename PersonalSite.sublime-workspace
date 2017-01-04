@@ -4,8 +4,36 @@
 		"selected_items":
 		[
 			[
+				"image",
+				"imagelink"
+			],
+			[
+				"con",
+				"content-padding"
+			],
+			[
+				"cont",
+				"content-section"
+			],
+			[
+				"dark",
+				"dark-grey"
+			],
+			[
+				"dar",
+				"dark-green"
+			],
+			[
+				"dark-",
+				"dark-red"
+			],
+			[
 				"margin",
-				"margin-right"
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
 			],
 			[
 				"back",
@@ -215,75 +243,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1512,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/server.js",
-			"settings":
-			{
-				"buffer_size": 1071,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "server.js",
-			"settings":
-			{
-				"buffer_size": 750,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "assets/css/style.scss",
-			"settings":
-			{
-				"buffer_size": 1356,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/app.module.js",
-			"settings":
-			{
-				"buffer_size": 82,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.module.js",
-			"settings":
-			{
-				"buffer_size": 656,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
-			"settings":
-			{
-				"buffer_size": 833,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/pages/home.view.html",
-			"settings":
-			{
-				"buffer_size": 416,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -338,17 +297,57 @@
 	},
 	"file_history":
 	[
+		"/C/Dev/caleb-weaver-page/index.html",
+		"/C/Dev/caleb-weaver-page/app/pages/home/home.view.html",
+		"/C/Dev/caleb-weaver-page/app/components/image-divider/image-divider.directive.js",
+		"/C/Dev/caleb-weaver-page/app/pages/home/home.controller.js",
+		"/C/Dev/caleb-weaver-page/app/components/nav-bar/navigation.view.html",
+		"/C/Dev/caleb-weaver-page/app/components/navigation/navigation.view.html",
+		"/C/Dev/caleb-weaver-page/app/pages/dev/dev.controller.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/assets/css/main.scss",
+		"/C/Dev/caleb-weaver-page/gulpfile.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/gulpfile.js",
+		"/C/Dev/caleb-weaver-page/assets/css/css/style.css",
+		"/C/Dev/caleb-weaver-page/assets/css/portfolio-style.scss",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/assets/css/css/main.css",
+		"/C/Dev/caleb-weaver-page/assets/css/css/image-scroller.css",
+		"/C/Dev/caleb-weaver-page/assets/css/portfolio-style.css",
+		"/C/Dev/caleb-weaver-page/assets/css/css/portfolio-style.css",
+		"/C/Users/cweaver/Google Drive/Mtg/wtwlf123s_cube (Powered)-Current.txt",
+		"/C/Users/cweaver/Google Drive/Mtg/Planned Updates (Powered).txt",
+		"/C/Users/cweaver/Documents/Work Logs/ParsonsLog.txt",
+		"/C/Dev/Ant Package Utility/retrieveUnpackaged/Case_03440218_20161227-183119/classes/OccServices.cls",
+		"/C/Dev/caleb-weaver-page/app/pages/dev/dev.view.html",
+		"/C/Dev/caleb-weaver-page/assets/css/image-scroller.scss",
+		"/C/Dev/caleb-weaver-page/app/components/image-divider/image-divider.view.html",
+		"/C/Users/cweaver/Desktop/StartingPointStyles-Backup.resource",
+		"/C/Users/cweaver/Desktop/MultiAddrServCheckController-Backup.cls",
+		"/C/Dev/caleb-weaver-page/app/app.module.js",
+		"/C/Dev/caleb-weaver-page/app/components/header/header.directive.js",
+		"/C/Dev/caleb-weaver-page/app/app.states.js",
+		"/C/Users/cweaver/Desktop/StartingPointMultiAddressCheck-Backup.page",
+		"/C/Dev/Ant Package Utility/retrieveUnpackaged/Case_03420696_20161221-104705/classes/ServiceRequestAfterTriggerLogic.cls",
+		"/C/Dev/caleb-weaver-page/assets/css/style.scss",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/home/home.controller.js",
+		"/C/Dev/caleb-weaver-page/app/components/nav-bar/navigation.directive.js",
+		"/C/Dev/caleb-weaver-page/app/components/header/header.view.html",
+		"/C/Dev/caleb-weaver-page/app/components/footer/footer.directive.js",
+		"/C/Dev/caleb-weaver-page/app/components/footer/footer.view.html",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/home/home.view.html",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
+		"/C/Users/cweaver/Downloads/zjefs_cube.txt",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/landing/landing.view.html",
 		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.module.js",
+		"/C/Dev/caleb-weaver-page/server.js",
+		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/server.js",
+		"/C/Dev/caleb-weaver-page/app/pages/home.view.html",
 		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/index.html",
 		"/C/Users/cweaver/Google Drive/PersonalSite/package.json",
 		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/package.json",
 		"/C/Users/cweaver/Google Drive/PersonalSite/app/app.states.js",
 		"/C/Users/cweaver/Google Drive/PersonalSite/app/components/home-content/home-content.directive.js",
 		"/C/Users/cweaver/Google Drive/PersonalSite/js/app.js",
-		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/home/home.controller.js",
 		"/C/Users/cweaver/Google Drive/PersonalSite/app/pages/home.controller.js",
-		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/pages/home/home.view.html",
-		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
 		"/C/Users/cweaver/Google Drive/PersonalSite/app/app.module.js",
 		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/components/bottom-bar/bottom-bar.directive.js",
 		"/C/Users/cweaver/Google Drive/PersonalSite/app/components/home-content/home-content.view.html",
@@ -425,22 +424,7 @@
 		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityAfterTriggerLogicTest.cls",
 		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/EEFullCancelPlugin.cls",
 		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/EEFullCanceller.cls",
-		"/C/cygwin64/home/cweaver/.bashrc",
-		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityBeforeTriggerLogic.cls",
-		"/C/Users/cweaver/Google Drive/STEVE, THIS IS WHERE YOU CHANGE THE NEWS URL.txt",
-		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitBeforeLogic.cls",
-		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/ServiceRequestBeforeTriggerLogic.cls",
-		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/EthernetEverywhereMACDImpl.cls",
-		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OSLBeforeTriggerLogic.cls",
-		"/C/Users/cweaver/mmWorkspace/EEDev/src/classes/OpportunityCircuitNetworkAfterLogic.cls",
-		"/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/.gitignore",
-		"/C/home/cweaver/.bashrc",
-		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/MavensMate/sublime/Default.sublime-commands",
-		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Installed Packages/Sublimerge 3.sublime-commands",
-		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Installed Packages/Sublimerge 3.sublime-package",
-		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Default (Windows).sublime-keymap",
-		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/cweaver/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings"
+		"/C/cygwin64/home/cweaver/.bashrc"
 	],
 	"find":
 	{
@@ -451,6 +435,9 @@
 		"height": 102.0,
 		"where_history":
 		[
+			"C:\\Dev\\caleb-weaver-page\\app",
+			"C:\\Dev\\caleb-weaver-page",
+			"<project>",
 			""
 		]
 	},
@@ -459,6 +446,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"homeController",
+			"devcontroller",
+			"portfolio",
+			"img-scroll",
+			"\"http://t1na.deviantart.com/art/Fireflies-598842255\"",
+			"link=\"http://t1na.deviantart.com/art/Fireflies-598842255\"",
+			"navigation",
+			"hr",
+			"home",
+			"ng-app",
+			"header",
+			"med",
+			"light",
+			"dev",
+			"footer",
+			"div",
 			"routes",
 			"app",
 			"process",
@@ -570,23 +573,7 @@
 			"queryOCircuits",
 			"oNetworkIds",
 			"Service_Request__c",
-			"gettestaccount",
-			"services",
-			"'billing account",
-			"testUpdateONetworkWhenEplanDisconnected",
-			"onetwo",
-			"testCheckONetworkStatusForCancelled",
-			"oCircuits",
-			"id",
-			"testCheckONetworkStatusForCancelled",
-			"EXPO_Path_Id__c",
-			"occ",
-			"oCircuitEplan",
-			"eConnEplan",
-			"eCircuitEplan",
-			"occ",
-			"eplan",
-			"Circuit_Occurrence_Definition__c"
+			"gettestaccount"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -606,246 +593,8 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1512,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1434,
-								1434
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 75.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/server.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1071,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								199,
-								205
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "server.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 750,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								202,
-								202
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/css/style.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1027,
-								1027
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1016.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/app.module.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 82,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								66,
-								66
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.module.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 656,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								418,
-								418
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/cweaver/sublimeWorkspace/df16-smartmirror-frontend/app/app.states.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 833,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								165,
-								165
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/pages/home.view.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 416,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								362,
-								362
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -884,6 +633,10 @@
 	{
 		"height": 244.0
 	},
+	"output.exec":
+	{
+		"height": 142.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -901,6 +654,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"homeview",
+				"C:\\Dev\\caleb-weaver-page\\app\\pages\\home\\home.view.html"
+			],
+			[
+				"app",
+				"C:\\Dev\\caleb-weaver-page\\app\\app.module.js"
+			],
+			[
+				"index",
+				"C:\\Dev\\caleb-weaver-page\\index.html"
+			],
 			[
 				"oliplug",
 				"src\\classes\\EECreateOlisPlugin.cls"

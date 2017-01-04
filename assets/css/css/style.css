@@ -1,9 +1,21 @@
+.portfolio-image {
+  margin: 0 auto 30px auto;
+  width: 50%;
+  border: solid 1px #333; }
+
+.portfolio-header {
+  padding-top: 30px;
+  text-align: center; }
+
+.portfolio-description {
+  text-align: center; }
+
 html, body {
-  height: 100%; }
+  background-color: #333; }
 
 .container-fluid {
-  height: 100%;
-  padding: 0; }
+  padding: 0;
+  max-width: 750px; }
 
 .image-header {
   position: absolute;
@@ -13,15 +25,6 @@ html, body {
   width: 100%;
   background: black url("../../img/backgrounds/kaleidoscope.jpg") no-repeat center 34%;
   background-size: cover; }
-
-.content {
-  position: absolute;
-  top: 85px;
-  bottom: 85px;
-  width: 100%;
-  background-color: black;
-  z-index: 1;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.75); }
 
 .project-list {
   display: flex;
@@ -33,27 +36,92 @@ html, body {
   border-bottom: solid 1px #333; }
   .project-list .project-link {
     display: flex;
+    flex-grow: 1;
+    justify-content: center;
     align-items: center;
     color: white;
     height: 100%;
     padding: 0 10px;
     font-size: 1.2em;
-    border-left: solid 1px #333;
-    border-right: solid 1px #333;
     background: #5e5e5e; }
+  .project-list .middle-links {
+    border-left: solid 1px #333;
+    border-right: solid 1px #333; }
+
+.content {
+  position: relative;
+  top: 85px;
+  bottom: 85px;
+  width: 100%;
+  background-color: #393239;
+  z-index: 2;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.75); }
 
 .content-display {
-  height: calc(100% - 60px);
-  width: 90%;
   margin-left: auto;
   margin-right: auto;
-  background-color: white; }
+  background-color: #5e5e5e;
+  border-left: solid 1px #333;
+  border-right: solid 1px #333;
+  color: white; }
+  .content-display h3 {
+    margin-top: 0;
+    margin-bottom: 30px; }
+  .content-display .spotify-container {
+    width: 100%;
+    background-color: #333;
+    text-align: center;
+    padding: 15px; }
+  .content-display .divider-container {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    border-top: white 1px solid;
+    border-bottom: white 1px solid; }
+    .content-display .divider-container img {
+      width: 100%; }
+    .content-display .divider-container .divider-image {
+      background-attachment: fixed; }
+    .content-display .divider-container .first-image {
+      margin-top: -124px; }
+    .content-display .divider-container .second-image {
+      margin-top: -133px; }
+    .content-display .divider-container .third-image {
+      margin-top: -24px; }
+    .content-display .divider-container .fourth-image {
+      margin-top: -212px; }
+  .content-display .headline {
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 30px; }
+  .content-display .content-section {
+    padding: 20px 10px;
+    overflow: auto; }
+
+.portrait {
+  width: 60%;
+  margin-top: 5%;
+  margin-right: 20%;
+  margin-left: 20%; }
+
+.education {
+  background-color: #53554A; }
+
+.work-experience {
+  background-color: #574C4D; }
+
+.skills {
+  background-color: #3F473E; }
+
+.portfolio {
+  background-color: #393239; }
 
 .image-footer {
   position: absolute;
-  bottom: 0px;
-  left: 0px;
+  margin-top: 85px;
   height: 85px;
+  left: 0;
   width: 100%;
+  z-index: 3;
   background-image: url("../../img/backgrounds/dankest_deer.jpg");
-  background-position: 0 83%; }
+  background-position: 1375px 83%; }

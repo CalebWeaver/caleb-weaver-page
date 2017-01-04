@@ -1,0 +1,17 @@
+
+$dark-grey: #333;
+
+.portfolio-image {
+	margin: 0 auto 30px auto;
+	width: 50%;
+	border: solid 1px $dark-grey;
+}
+
+.portfolio-header {
+	padding-top: 30px;
+	text-align: center;
+}
+
+.portfolio-description {
+	text-align: center;
+}

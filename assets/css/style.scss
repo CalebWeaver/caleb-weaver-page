@@ -1,3 +1,5 @@
+@import "portfolio-style";
+
 $screen-sm-min: 768px;
 $screen-md-min: 992px;
 $screen-lg-min: 1200px;
@@ -6,13 +8,22 @@ $dark-grey: #333;
 $med-grey: #555;
 $light-grey: #5e5e5e;
 
+$dark-purple: #393239;
+$dark-green: #3F473E;
+$dark-red: #574C4D;
+$dark-yellow: #53554A;
+
+$shadow-size: 4px;
+
+$content-padding: 10px;
+
 html,body {
-	height:100%;
+	background-color: $dark-grey;
 }
 
 .container-fluid {
-	height:100%;
 	padding: 0;
+	max-width: 750px;
 }
 
 .image-header {
@@ -27,62 +38,149 @@ html,body {
 	background-size:cover;
 }
 
+.project-list {
+	display:flex;
+
+	width:100%;
+	height: 60px;
+
+	background-color: $med-grey;
+	justify-content: space-around;
+	align-items: center;
+
+	border-bottom: solid 1px $dark-grey;
+
+	.project-link {
+		display:flex;
+		flex-grow: 1;
+		justify-content: center;
+		align-items: center;
+		color: white;
+		height: 100%;
+		padding: 0 10px;
+		font-size: 1.2em;
+		background: $light-grey;
+	}
+
+	.middle-links {
+		border-left: solid 1px $dark-grey;
+		border-right: solid 1px $dark-grey;
+	}
+
+	.project-category {
+	}
+}
+
 .content {
-	position:absolute;
+	position:relative;
 	top:85px;
 	bottom:85px;
 	width:100%;
-	background-color:black;
+	background-color:$dark-purple;
 
-	z-index:1;
+	z-index:2;
 
-	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.75);
+	box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.75);
 }
 
-	.project-list {
-		display:flex;
+.content-display {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: $light-grey;
+	border-left: solid 1px $dark-grey;
+	border-right: solid 1px $dark-grey;
+	color: white;
 
-		width:100%;
-		height: 60px;
+	h3 {
+		margin-top: 0;
+		margin-bottom: 30px;
+	}
 
-		background-color: $med-grey;
-		justify-content: space-around;
-		align-items: center;
+	.spotify-container {
+		width: 100%;
+		background-color: $dark-grey;
+		text-align: center;
+		padding: 15px;
+	}
 
-		border-bottom: solid 1px $dark-grey;
+	.divider-container {
+		width: 100%;
+		height: 100px;
+		overflow: hidden;
+		border-top: white 1px solid;
+		border-bottom: white 1px solid;
 
-		.project-link {
-			display:flex;
-			align-items: center;
-			color: white;
-			height: 100%;
-			padding: 0 10px;
-			font-size: 1.2em;
-			border-left: solid 1px $dark-grey;
-			border-right: solid 1px $dark-grey;
-			background: $light-grey;
+		img {
+			width: 100%;
 		}
 
-		.project-category {
+		.divider-image {
+		    background-attachment: fixed;
+		}
+
+		.first-image {
+			margin-top: -124px;
+		}
+
+		.second-image {
+			margin-top: -133px;
+		}
+
+		.third-image {
+			margin-top: -24px;
+		}
+
+		.fourth-image {
+			margin-top: -212px;
 		}
 	}
 
-	.content-display {
-		height: calc(100% - 60px);
-		width: 90%;
-		margin-left: auto;
-		margin-right: auto;
-		background-color: white;
+	.headline {
+		text-align: center;
+		padding: 10px;
+		padding-bottom: 30px;
 	}
+
+	.content-section {
+		padding: 20px $content-padding;
+		overflow: auto;
+	}
+}
+
+.portrait {
+	width: 60%;
+	margin-top: 5%;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+.education {
+	background-color: $dark-yellow;
+}
+
+.work-experience {
+	background-color: $dark-red;
+}
+
+.skills {
+	background-color: $dark-green;
+}
+
+.portfolio {
+	background-color: $dark-purple;
+}
+
+$footer-height: 85px;
 
 .image-footer {
-	position:absolute;
-	bottom:0px;
-	left:0px;
-
-	height: 85px;
+	position: absolute;
+	margin-top: $footer-height;
+	height: $footer-height;
+	left:0;
 	width: 100%;
 
+	z-index: 3;
+
 	background-image: url("../../img/backgrounds/dankest_deer.jpg");
-	background-position: 0 83%;
+	background-position: 1375px 83%;
 }

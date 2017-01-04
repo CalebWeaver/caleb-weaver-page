@@ -1,0 +1,11 @@
+<h3 class="portfolio-header">
+{{$ctrl.portfolioProject.name}}
+</h3>
+<p class="portfolio-description">
+{{$ctrl.portfolioProject.desc}}
+</p>
+<slick>
+  <div ng-repeat="image in $ctrl.portfolioProject.images">
+	  <img class="portfolio-image" src="{{image}}">
+  </div>
+</slick>
