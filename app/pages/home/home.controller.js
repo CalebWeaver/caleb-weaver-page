@@ -17,9 +17,11 @@
                 var height = Math.max( body.scrollHeight, body.offsetHeight, 
                     html.clientHeight, html.scrollHeight, html.offsetHeight );
 
-                var scrollPercent = $(document).scrollTop() / height;
+                var scrollPercent = $(document).scrollTop() / (height - document.documentElement.clientHeight);
+                console.log(scrollPercent);
                 $('.divider-image').each(function() {
-                    $(this).css('margin-top', ($(this).height()) * scrollPercent * -1 + 'px');
+                    var maxScrollable = $(this).height() - 100;
+                    $(this).css('margin-top',  maxScrollable * (scrollPercent * .9) * -1 + 'px');
                 });
             });
         }
