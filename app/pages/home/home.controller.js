@@ -21,7 +21,7 @@
                 console.log(scrollPercent);
                 $('.divider-image').each(function() {
                     var maxScrollable = $(this).height() - 100;
-                    $(this).css('margin-top',  maxScrollable * (scrollPercent * .9) * -1 + 'px');
+                    $(this).css('margin-top',  maxScrollable * (scrollPercent * .5) * -1 + 'px');
                 });
             });
         }
