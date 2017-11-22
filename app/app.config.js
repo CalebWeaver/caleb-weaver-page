@@ -5,6 +5,11 @@
 		.constant(
 			'dividerImages', [
 	        	{
+	        		link: "http://i.imgur.com/ZC0IVaU.jpg",
+	        		source: "http://i.imgur.com/ZC0IVaU.jpg",
+	        		style: "five-lands"
+	        	},
+	        	{
 	        		link: "http://t1na.deviantart.com/art/Fireflies-598842255",
 	        		source: "http://pre03.deviantart.net/382a/th/pre/f/2016/085/5/b/fireflies_by_t1na-d9wj9n3.jpg",
 	        		style: "first-image"
