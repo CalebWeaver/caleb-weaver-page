@@ -67,6 +67,9 @@ html, body {
   .content-display h3 {
     margin-top: 0;
     margin-bottom: 30px; }
+  .content-display a {
+    color: white;
+    text-decoration: underline; }
   .content-display .spotify-container {
     width: 100%;
     background-color: #333;
