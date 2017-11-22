@@ -35,6 +35,7 @@
         	{
         		name: 'DART App',
         		desc: 'An android native application made as a tool to directly recruit potential hires.',
+        		link: 'https://play.google.com/store/apps/details?id=com.acumen.android.dart&hl=en',
         		images: ['assets/img/dart/application.webp',
         		'assets/img/dart/home.webp',
         		'assets/img/dart/menu.webp',

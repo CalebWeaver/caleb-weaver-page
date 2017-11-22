@@ -116,6 +116,10 @@ html, body {
 .portfolio {
   background-color: #393239; }
 
+.portfolio-header a {
+  color: white;
+  text-decoration: underline; }
+
 .image-footer {
   position: absolute;
   margin-top: 85px;

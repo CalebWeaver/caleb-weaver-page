@@ -1,5 +1,8 @@
-<h3 class="portfolio-header">
+<h3 ng-if="!$ctrl.portfolioProject.link" class="portfolio-header">
 {{$ctrl.portfolioProject.name}}
+</h3>
+<h3 ng-if="$ctrl.portfolioProject.link" class="portfolio-header">
+<a href="{{$ctrl.portfolioProject.link}}">{{$ctrl.portfolioProject.name}}</a>
 </h3>
 <p class="portfolio-description">
 {{$ctrl.portfolioProject.desc}}
